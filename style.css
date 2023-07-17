@@ -1,0 +1,358 @@
+* {
+  text-decoration: none;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  box-sizing: border-box;
+  
+}
+.start {
+  padding: 0 2px;
+
+  position: relative;
+  z-index: 10;
+}
+.menu {
+  display: flex;
+  height: 7vh;
+  position: fixed;
+  justify-content: space-between;
+
+  padding: 20px;
+
+  width: 100%;
+  text-align: center;
+  text-decoration: none;
+  background-color: white;
+  box-sizing: border-box;
+}
+.menu .logo {
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+}
+.nav-item a {
+  color: rgb(0, 0, 0);
+}
+.menu .nav-item ul {
+  display: flex;
+}
+.menu .nav-item ul li {
+  margin: 0 25px;
+  text-decoration: none;
+}
+.container {
+  height: 100vh;
+
+  padding: 30% 20px;
+  background-image: url(img/port.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+}
+.menu-in {
+  width: 10%;
+
+  height: 100vh;
+
+  color: white;
+  margin: 0 25px;
+}
+.menu-in h1 {
+  width: 80%;
+  font-size: 2em;
+}
+.menu-in p {
+  width: 80%;
+  color: white;
+  font-size: 1.5em;
+}
+.place {
+  padding: 5px 10%;
+  height: auto;
+  margin-top: 2%;
+}
+.faire {
+  text-align: start;
+}
+.portship {
+  display: flex;
+  margin-top: 20px;
+  width: 100%;
+  position: relative;
+  justify-content: space-between;
+}
+.im {
+  width: 100%;
+}
+.imv img {
+  width: 90%;
+}
+.ims img {
+  width: 35%;
+  position: absolute;
+  left: 100px;
+  top: 200px;
+}
+.com {
+  flex-direction: column;
+  margin: 0 75px;
+  text-align: start;
+  padding: 10% 50px;
+  width: 100%;
+}
+.veltour {
+  margin-top: 10%;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.velcom {
+  text-align: start;
+
+  flex-direction: column;
+  margin: 0 75px;
+  text-align: start;
+  padding: 10% 50px;
+  width: 100%;
+}
+.velim {
+  width: 100%;
+
+  position: relative;
+}
+.velima img {
+  width: 90%;
+  height: 40vh;
+}
+.velims img {
+  width: 90%;
+  position: absolute;
+  top: 30%;
+  right: -10%;
+}
+.pris {
+  display: flex;
+}
+.impris {
+  width: 100%;
+
+  position: relative;
+}
+.mpr img {
+  width: 90%;
+}
+.iis img {
+  width: 85%;
+  position: absolute;
+  left: 100px;
+  top: 200px;
+}
+.imcom {
+  text-align: start;
+
+  flex-direction: column;
+  margin: 0 75px;
+  text-align: start;
+  padding: 10% 50px;
+  width: 100%;
+}
+.place button {
+  width: 30%;
+  height: 5vh;
+  color: white;
+  background-color: purple;
+  font-size: 1em;
+  border: none;
+}
+.manee {
+  height: auto;
+
+  /* background-color: aquamarine; */
+}
+
+.tes {
+  display: flex;
+  margin-top: 5%;
+  padding: 8px 10%;
+  width: 100%;
+  justify-content: space-between;
+}
+.tes button{
+    width: 150%;
+  height: 5vh;
+  color: white;
+  background-color: purple;
+  font-size: 1em;
+  border: none; 
+}
+.tions {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 5px 10%;
+  margin: 1px ;
+  margin-top: 2%;
+}
+.tomo{
+    display: block; 
+    border: 10ch; 
+    border-radius: 10%;
+    margin: 0.5%;
+    width: 100%;
+}
+.mot{
+    font-size: 50%;
+    
+}
+.mot h1{
+    color: aquamarine;
+}
+.mots{
+    font-size: 200%;
+}
+.tomo img {
+  width: 100%;
+
+  height: 45vh;
+
+
+}
+.mot{
+    display: flex;
+    justify-content: space-between;
+}
+.air{
+    height: auto;
+}
+.pam{
+    padding: 8px 10%;
+    margin-top: 2%;
+}
+.pan{
+    width: 100%;
+    display: flex;
+ background-color: rgb(169, 173, 177);
+ 
+    justify-content: space-between;
+    padding: 5px 10%;
+    margin: 2px ;
+    margin-top: 1%;
+}
+.pan img{
+    width: 100%;
+
+    height: 10vh;
+}
+.famme{
+    display: flex;
+    padding: 5px 10%;
+    width: 100%;
+    margin-top: 3%;
+    justify-content: space-between;
+}
+.famwi button{
+    width: 150%;
+    height: 5vh;
+    color: white;
+    background-color: purple;
+    font-size: 1em;
+    border: none; 
+}
+.viot{
+    text-align: center;
+    /* display: block; */
+   
+   
+    margin-top: 5%;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 2% 400px 0;
+    height: 60vh;
+   
+}
+.toiv{
+  color: white;
+  width: 100%;
+  background-color: blueviolet;
+  /* height: 40vh; */
+  padding: 8%;
+
+  text-align: center;
+  flex-direction: column;
+ 
+}
+.buttoi button{
+  width: 20%;
+    height: 5vh;
+    color: white;
+    background-color: purple;
+    font-size: 1em;
+    border: none; 
+}
+.finish{
+  width: 100%;
+
+}
+.nishe{
+ display: flex;
+ margin-top: 2%;
+ width: 100%;
+ justify-content: space-between;
+}
+.lastright{ 
+  width: 100%;
+  text-align: center;
+  padding:25px 0;
+  background: #262626;
+  font-weight: 300;
+  margin-top: 20px;
+}
+@media screen and (max-width:900px) {
+  .start{
+      padding: 0;
+  }
+  .start .logo{
+      position: absolute;
+      top: 20px;
+      left: 50px;
+  }
+  .start .menu-btn{
+      display: block;
+  }
+  .nav-item{
+      top: 0;
+      left: 0;
+     position: absolute;
+     background-color: rgba(255, 0, 0, 0.192);
+     backdrop-filter:blur(19px) ;
+     width: 100%;
+     height: 100vh;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     margin-left: -100%;
+     transition: all 0.5s ease;
+
+  }
+  .nav-item .mobile-menu{
+      margin-left: 0;
+    }
+      .nav-item ul{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+  }
+  .nav-item .nav-item ul li{
+      margin: 15px 0;
+      font-size: 1.2cm;
+  }
+  .container  {
+    padding: 450px 1% ;
+    
+  }
+  .container   .start  .menu-registration button{
+    position: absolute;
+    bottom: 10%;
+  }
+}
