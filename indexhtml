@@ -1,0 +1,274 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="stylet.css">
+    <script src="https://kit.fontawesome.com/c4254e24a8.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <header class="start">
+        <div class="menu">
+            <a href="a" class="logo"> Ston baks</a>
+            <div class=" nav-item">
+                <ul >
+                    <li> <a href="#">Accuil</a> </li>
+                    <li> <a href="#">Services</a> </li>
+                    <li> <a href="#">Tours</a> </li>
+                    <li> <a href="#">A Propos de Nous </a> </li>
+                   
+
+                </ul>
+             
+            </div>
+            <img src="img/menu-btn.png" alt="menu" class="menu-btn">
+            <div class="menu-registration">
+                <button>Contacter Nous</button>
+            </div>
+        </div>
+
+    </header>
+    <div class="container">
+        <span class="menu-in">
+
+            <h1> <b> Bienvenue sur le site de B.B HARROD CARGO,Votre <br> Transitaire qui offre un service Rapide,Et
+                    Fiable.</b></h1>
+        </span>
+        <span class="menu-in">
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Harum doloremque a sit numquam quae. Eaque,
+                totam praesentium libero perspiciatis iste voluptatibus necessitatibus, reprehenderit architecto
+                laboriosam illo eum dolorum consectetur quisquam!</p>
+        </span>
+    </div>
+    <header class="place">
+        <div class="faire">
+            <h1>Notre Savoir - faire</h1>
+            <div class="faires">
+                <p>Au fil des annees nous avons developper une expertise trés appreciee <br> dans ces differents
+                    domaines</p>
+            </div>
+        </div>
+        <span class="portship">
+            <div class="im">
+                <div class="imv">
+                    <img src="img/terminal.jpg" alt="">
+                </div>
+                <div class="ims">
+                    <img src="img/port-mach.jpg" alt="">
+                </div>
+            </div>
+            <div class="com">
+                <h1><b>Transport des marchandises depuis l'étranger rendues port ou aéroport du Cameroun</b></h1>
+                <br>
+                <div class="come">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. <br>
+                        <br> Delectus cumque explicabo ut magnam minima mollitia <br>
+                        <br> tempore deserunt, iste eos totam? Dolorem optio aspernatur alias perspiciatis molestiae
+                        autem, laborum ipsum culpa?</p>
+
+                </div>
+                <br>
+                <button>Contactez-nous</button>
+            </div>
+        </span>
+        <span class="veltour">
+            <div class="velcom">
+                <h1><b>Accompagnement et assistance des voyageurs du Cameroun vers des grandes métropoles
+                        commerciales</b></h1>
+                <br>
+                <div class="velco">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing <br>
+                        <br> elit. Aliquam amet vel commodi deserunt cumque? <br>
+                        <br> Vitae laborum rem amet, molestias laudantium nobis corrupti adipisci dolores consequuntur,
+                        quo fuga, iure est temporibus!</p>
+                </div>
+                <br>
+                <button>Contactez-nous</button>
+            </div>
+            <div class="velim">
+                <div class="velima">
+                    <img src="img/hap vel.jpg" alt="">
+                </div>
+                <div class="velims">
+                    <img src="img/visit.jpg" alt="">
+                </div>
+            </div>
+        </span>
+        <span class="pris">
+            <div class="impris">
+                <div class="mpr">
+                    <img src="img/vels.jpg" alt="">
+                </div>
+                <div class="iis">
+                    <img src="img/pari.jpg" alt="">
+                </div>
+            </div>
+            <div class="imcom">
+                <h1><b>Octroie de Visa vers votre destination</b></h1>
+                <br>
+                <div class="imco">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing <br>
+                        <br> elit. Illum distinctio, totam eum quasi illo aspernatur <br>
+                        <br> quis obcaecati expedita odit, consequatur maxime numquam! Omnis dolorem unde odit aliquid
+                        ullam enim facere!</p>
+                </div>
+                <br>
+                <button>Contactez-nous</button>
+            </div>
+
+        </span>
+    </header>
+    <div class="manee">
+        
+         <div class="tes">
+            <div class="te">
+                <h1><b>Zones couvertes</b></h1>
+                <br>
+                <p>Nous couvrons les principales villes ci-dessous grace a notre expertise et a notre <br>
+                    experiance,nous assurons le transport de vos colis du pays de depart jusqu'a la <br> destination
+                    convenue en toute securiter et selon les regles de l'art.</p>
+            </div>
+            <div class="ous">
+                <button>Contactez-nous</button>
+            </div>
+        </div> 
+         <div class="tions">
+       
+         <span class="tomo">
+             <img src="img/dubai.jpg" alt="">
+               <div class="mot">
+                  <h1>Dubai</h1>
+                <div class="mots">
+                 <p>Emirats Arabe Unis</p>
+                </div>  
+              </div>
+         </span>
+         <span class="tomo">
+             <img src="img/york.jpg" alt="">
+             <div class="mot">
+                <h1>New-york</h1>
+                <div class="mots">
+                  <p>Etats-Unis</p>
+                </div>
+             </div>
+         </span>
+         <span class="tomo"> 
+             <img src="img/aris.jpg" alt="">
+             <div class="mot">
+                <h1>Paris</h1>
+                <div class="mots">
+                     <p>France</p>
+                </div>
+             </div>
+         </span>
+         <span class="tomo">
+             <img src="img/karta.jpg" alt="">
+             <div class="mot">
+                <h1>Jakarta</h1>
+                <div class="mots">
+                    <p>Indonésie</p>
+                </div>
+             </div>
+         </span>
+         
+         <span class="tomo">
+             <img src="img/insta.jpg" alt="">
+             <div class="mot">
+                <h1>Istanbul</h1>
+                <div class="mots">
+                    <p>Turquie</p>
+                </div>
+             </div>
+         </span>
+      </div> 
+    </div>
+ <header class="air">
+    <div class="pam"> 
+      <h1>Nos partenairs</h1>
+    </div>
+    <div class="pan">
+        <div class="logo">
+             <img src="img/kenya.jpg" alt=""></div>
+        <div class="logo"> <img src="img/fra.jpg" alt="">
+             </div>
+        <div class="logo">
+            <img src="img/ethi.jpg" alt="">
+             </div>
+        <div class="logo">
+            <img src="img/cot.jpg" alt="">
+             </div>
+        <div class="logo">
+            <img src="img/brus.jpg" alt="">
+             </div>
+       
+    </div>
+ </header>
+ <header class="famme">
+  <div class="fas">
+    <h1>ILs nous ont fait confiance</h1>
+    <br>
+    <p>Plus de 30 client nous font deja confiance pour le transport, le <br> groupage, la livraison et l'entreposage de leurs biens a travers le <br> monde .Et vous ??</p>
+</div>
+     <div class="famwi">
+        <div class="fambut"><button> Contacter-nous</button></div>
+     </div>
+    
+ </header>
+ <header class="viot">
+       <div class="toiv">
+        <h1> Besoin d'un quelconque service? Nous <br> sommes disponibles.Nous serons ravis de discuter avec vous.</h1>
+        <br>
+        <div class="buttoi">
+            <button>Contactez-nous</button>
+         </div>
+       </div>
+       <br>
+       
+
+     
+
+ </header>
+ <hr>
+ <header class="finish">
+    <span class="nishe">
+       <div class="nish"></div>
+       <div class="nish">
+         <p> Tel:+23723342687</p>
+         <p>+237674442014/699905363</p>
+         <p>info@bbharrodcargo.com</p>
+       </div>
+       <div class="nish">
+        <p>Akwa Rue Drout vers l'hotel <br> Bano palace.</p>
+        <p>Douala CAMEROUN</p>
+        
+       </div>
+       <div class="nish">
+        <p>Accueil</p>
+        <p>Services</p>
+        <p>Tours</p>
+        <p>A propos de nous</p>
+       </div>
+    </span>
+ </header>
+ <div class="lastright">
+  <p>Copyright 2022 /BBHarredCargo</p>
+ </div>
+
+
+ <script>
+     const menuHamburger = document.querySelector(".menu-btn")
+const navLinks = document.querySelector(".nav-links")
+
+menuHamburger.addEventListener('click',()=>{
+navLinks.classList.toggle('mobile-menu')
+})
+</script> 
+
+
+
+</body>
+
+</html>
